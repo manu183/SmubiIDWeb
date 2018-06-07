@@ -9,7 +9,7 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Christoph Bamberger
+- name: Christoph<br/> Bamberger
   pic: 1
   position: Lead Developer
   social:
@@ -20,7 +20,7 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Sebastian Findeisen
+- name: Sebastian<br/> Findeisen
   pic: 2
   position: Lead Developer
   social:
@@ -53,7 +53,7 @@ people:
     - title: google-plus
       url: #
 
-- name: Minh-Kha Nguyen
+- name: Minh-Kha<br/> Nguyen
   pic: 5
   position: Lead Developer
   social:
