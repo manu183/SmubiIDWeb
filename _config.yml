@@ -4,7 +4,7 @@ baseurl: "/"
 # Site settings
 title: Smubi ID
 email: manuellang183@gmail.com
-description: "We are a young group of students at KIT Karlsruhe Germany working on AR solution with Unity and HoloLens. We were participating at KPMG Ideation Challenge and won the world final in Amstedam, Netherlands."
+description: "We are Smubi ID, a young group of students at KIT Karlsruhe Germany working on AR solution with Unity and HoloLens. We were participating at KPMG Ideation Challenge and won the world final in Amstedam, Netherlands."
 
 plugins:
   - jekyll-seo-tag
