@@ -13,58 +13,38 @@ plugins:
 people:
 - name: Christoph<br/> Bamberger
   pic: 1
-  position: Lead Developer
+  position: Sales
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/manuel-lang/
 
 - name: Sebastian<br/> Findeisen
   pic: 2
-  position: Lead Developer
+  position: Finance
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/manuel-lang/
 
 - name: Tristan<br/> Karb
   pic: 3
-  position: Lead Developer
+  position: Operations
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/manuel-lang/
 
 - name: Manuel<br/> Lang
   pic: 4
-  position: Lead Developer
+  position: Development
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
       url: https://www.linkedin.com/in/manuel-lang/
 
 - name: Minh-Kha<br/> Nguyen
   pic: 5
-  position: Lead Developer
+  position: User Experience
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/manuel-lang/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
