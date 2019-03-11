@@ -16,21 +16,21 @@ people:
   position: Sales
   social:
     - title: linkedin
-      url: https://www.linkedin.com/in/manuel-lang/
+      url: https://www.linkedin.com/in/christoph-bamberger-84367a131/
 
 - name: Sebastian<br/> Findeisen
   pic: 2
   position: Finance
   social:
     - title: linkedin
-      url: https://www.linkedin.com/in/manuel-lang/
+      url: https://www.linkedin.com/in/sebastian-findeisen-56004685/
 
 - name: Tristan<br/> Karb
   pic: 3
   position: Operations
   social:
     - title: linkedin
-      url: https://www.linkedin.com/in/manuel-lang/
+      url: https://www.linkedin.com/in/tristan-karb-262134151/
 
 - name: Manuel<br/> Lang
   pic: 4
@@ -44,7 +44,7 @@ people:
   position: User Experience
   social:
     - title: linkedin
-      url: https://www.linkedin.com/in/manuel-lang/
+      url: https://www.linkedin.com/in/minh-kha-nguyen-955980112/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
